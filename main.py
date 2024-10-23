@@ -18,7 +18,7 @@ def banner():
 /____/_/ /_/\__,_/_/   \___/     |___//_/   
 
 \033[1;34m
-\033[1;32m ➢ Fb :    https://www.facebook.com/100073490157609  
+\033[1;32m ➢ Fb :    https://www.facebook.com/100037467428781
 ''')
 
 t=(Colorate.Horizontal(Colors.white_to_black,"- - - - - - - - - - - - - - - - - - - - - - - - -"))
